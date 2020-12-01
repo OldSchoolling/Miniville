@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j57pZFi1OW2M8DiOllMjKdPwkG2k6kVRcR/IEw+S64cr4fwPnvoFEQXgQHYUtDhB4xBHV6HQtgGv0ui1u52aMQ==",
+  "success": true,
+  "projectFilePath": "E:\\Github repositories\\CNAM\\Minivile\\Minivile\\Miniville.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ggame\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

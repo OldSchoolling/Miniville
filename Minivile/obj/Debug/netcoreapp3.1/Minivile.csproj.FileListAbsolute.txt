@@ -1,0 +1,13 @@
+C:\Users\mathe\Cnam\Prog C#\Github\CNAM\Minivile\Minivile\bin\Debug\netcoreapp3.1\Minivile.exe
+C:\Users\mathe\Cnam\Prog C#\Github\CNAM\Minivile\Minivile\bin\Debug\netcoreapp3.1\Minivile.deps.json
+C:\Users\mathe\Cnam\Prog C#\Github\CNAM\Minivile\Minivile\bin\Debug\netcoreapp3.1\Minivile.runtimeconfig.json
+C:\Users\mathe\Cnam\Prog C#\Github\CNAM\Minivile\Minivile\bin\Debug\netcoreapp3.1\Minivile.runtimeconfig.dev.json
+C:\Users\mathe\Cnam\Prog C#\Github\CNAM\Minivile\Minivile\bin\Debug\netcoreapp3.1\Minivile.dll
+C:\Users\mathe\Cnam\Prog C#\Github\CNAM\Minivile\Minivile\bin\Debug\netcoreapp3.1\Minivile.pdb
+C:\Users\mathe\Cnam\Prog C#\Github\CNAM\Minivile\Minivile\obj\Debug\netcoreapp3.1\Minivile.csprojAssemblyReference.cache
+C:\Users\mathe\Cnam\Prog C#\Github\CNAM\Minivile\Minivile\obj\Debug\netcoreapp3.1\Minivile.AssemblyInfoInputs.cache
+C:\Users\mathe\Cnam\Prog C#\Github\CNAM\Minivile\Minivile\obj\Debug\netcoreapp3.1\Minivile.AssemblyInfo.cs
+C:\Users\mathe\Cnam\Prog C#\Github\CNAM\Minivile\Minivile\obj\Debug\netcoreapp3.1\Minivile.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Cnam\Prog C#\Github\CNAM\Minivile\Minivile\obj\Debug\netcoreapp3.1\Minivile.dll
+C:\Users\mathe\Cnam\Prog C#\Github\CNAM\Minivile\Minivile\obj\Debug\netcoreapp3.1\Minivile.pdb
+C:\Users\mathe\Cnam\Prog C#\Github\CNAM\Minivile\Minivile\obj\Debug\netcoreapp3.1\Minivile.genruntimeconfig.cache
